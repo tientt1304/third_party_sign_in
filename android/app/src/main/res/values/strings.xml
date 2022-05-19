@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">336446581813995</string>
+    <string name="fb_login_protocol_scheme">fb336446581813995</string>
+    <string name="facebook_client_token">93a74e7049c282d72248ce9f65a40323</string>
+    <string name="app_name"> Third Party Sign In</string>
+</resources>
